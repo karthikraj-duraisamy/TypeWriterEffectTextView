@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TypeWriterEffectTextView</string>
+    <string name="action_settings">Settings</string>
+    <string name="printing_text">This text will get printed letter by letter</string>
+</resources>
